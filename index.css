@@ -15,7 +15,7 @@ html, body{
 }
 #grid {
 	position: absolute;
-	width: 100%;
+	width: 50%;
 	height: 100%;
 	background-color: #e3e3e3;
 	z-index: 0;
@@ -24,7 +24,7 @@ html, body{
 #chart {
 	position: fixed;
 	left: 31.5%;
-	top: 0.5%;
+	top: 2.5%;
 	width: 35%;
 	background-color: transparent;
 	z-index: 1;
